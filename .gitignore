@@ -1,0 +1,30 @@
+# dependencies
+/project/node_modules
+/project/.pnp
+/project/.pnp.js
+/Backend/node_modules
+/project/src/setupTests.js
+/project/src/serviceWorker.js
+/project/src/index.js
+/project/src/logo.svg
+/project/src/index.css
+/project/src/App.test.js
+
+
+# testing
+/project/coverage
+
+# production
+/project/build
+
+# misc
+/project/.DS_Store
+/project/.env.local
+/project/.env.development.local
+/project/.env.test.local
+/project/.env.production.local
+
+/project/npm-debug.log*
+/project/yarn-debug.log*
+/project/yarn-error.log*
+
